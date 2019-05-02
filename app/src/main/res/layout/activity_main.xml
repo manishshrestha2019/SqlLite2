@@ -27,6 +27,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="ADD"/>
+    <Button
+        android:id="@+id/btnView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View"/>
 
 
 
